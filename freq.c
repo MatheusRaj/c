@@ -1,3 +1,5 @@
+/*This code will return the frequency of characters of a string */
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
