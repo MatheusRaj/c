@@ -1,3 +1,4 @@
+/*This program will define if a point is contained or not*/
 #include <stdio.h>
 
 typedef struct {int x, y;} Tponto;
