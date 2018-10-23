@@ -1,3 +1,4 @@
+/*This program will return the average and the variance of some elements*/
 #include <stdio.h>
 #include <math.h>
 
